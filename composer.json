@@ -1,0 +1,15 @@
+{
+    "name": "jmelar/classes",
+    "description": "Clases PHP reutilizables para múltiples proyectos",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Jmelar\\Classes\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "proprietary",
+    "version": "1.0.0"
+}
