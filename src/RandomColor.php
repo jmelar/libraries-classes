@@ -29,7 +29,7 @@
  * SOFTWARE.
  */
 
-namespace Colors;
+namespace Jmelar\Classes;
 
 class RandomColor
 {
